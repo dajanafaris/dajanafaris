@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dajanafaris
 - Exploring world of development 🤸🏻‍♂️
-- 👀 I’m interested in ... opportunities for growth and neverending skills improvement
+- 👀 I’m interested in ... opportunities for growth, endless self-development and skills improvement
 - 🌱 I’m currently learning HTML, CSS and Javascript 
 - 💞️ I’m looking to collaborate on ... any projects I can contirbute with my knowledge
 - 📫 How to reach me ...
