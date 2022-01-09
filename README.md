@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dajanafaris
-- Exploring world of development 🤸🏻‍♂️
-- 👀 I’m interested in ... opportunities for growth, endless self-development and skills improvement
+- Exploring world of Front-end 
+- 👀 I’m interested in ... opportunities for growth, self-development and skills improvement
 - 🌱 I’m currently learning HTML, CSS and Javascript 
-- 💞️ I’m looking to collaborate on ... any projects I can contirbute with my knowledge
+- 💞️ I’m looking to collaborate on ... any projects I can contirbute and learn something new
 - 📫 How to reach me ...
 
 <!---
