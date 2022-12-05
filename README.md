@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dajanafaris
 - Exploring world of Front-end 
-- 👀 I’m interested in ... opportunities for growth, self-development and skills improvement
+- 👀 I’m interested in ... self-development and skills improvement in free time reading books by the sea
 - 🌱 I’m currently learning HTML, CSS and Javascript 
 - 💞️ I’m looking to collaborate on ... any projects I can contirbute and learn something new
 - 📫 How to reach me ...
